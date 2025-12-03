@@ -2,11 +2,11 @@
 # 👋 Olá, eu sou Gabriel Fleischmann  
 #### _Sou desenvolvedor Full-Stack com experiência na criação de aplicações completas, desde o front-end até o back-end, incluindo integração com bancos de dados._
 #### - 🚀 Desenvolvo **APIs REST** robustas e escaláveis  
-#### - 🌱 Sempre aprendendo novas tecnologias e boas práticas 
+#### - 🌱 Sempre aprendendo novas tecnologias e boas práticas
 
 <div>
-  <img height = "180em" src="https://github-readme-stats-ten-sage-iwublko9pn.vercel.app/api?username=GabrielFleischmann&show_icons=false&theme=midnight-purple">
-  <img height = "180em" src="https://github-readme-stats-ten-sage-iwublko9pn.vercel.app/api/top-langs/?username=GabrielFleischmann&layout=compact&theme=material-palenight">
+  <img height = "180em" src="https://github-readme-stats-ten-sage-iwublko9pn.vercel.app/api?username=GabrielFleischmann&show_icons=false&theme=midnight-purple&locale=pt-br">
+  <img height = "180em" src="https://github-readme-stats-ten-sage-iwublko9pn.vercel.app/api/top-langs/?username=GabrielFleischmann&layout=compact&theme=material-palenight&locale=pt-br">
 </div>
 
 <div style="display: inline_block"><br>
