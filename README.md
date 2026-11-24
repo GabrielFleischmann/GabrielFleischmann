@@ -5,8 +5,8 @@
 #### - 🌱 Sempre aprendendo novas tecnologias e boas práticas
 
 <div>
-  <img height = "180em" src="https://github-readme-stats-ten-sage-iwublko9pn.vercel.app/api?username=GabrielFleischmann&show_icons=false&theme=midnight-purple&locale=pt-br">
-  <img height = "180em" src="https://github-readme-stats-ten-sage-iwublko9pn.vercel.app/api/top-langs/?username=GabrielFleischmann&layout=compact&theme=material-palenight&locale=pt-br">
+  <img height = "180em" src="https://github-readme-stats-gkx4.vercel.app/api?username=GabrielFleischmann&show_icons=false&theme=midnight-purple&locale=pt-br">
+  <img height = "180em" src="https://github-readme-stats-gkx4.vercel.app/api/top-langs/?username=GabrielFleischmann&layout=compact&theme=material-palenight&locale=pt-br">
 </div>
 
 <div>
